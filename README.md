@@ -3,7 +3,7 @@ A simple simulation of an air traffic control (ATC) system.
 
 ![image](https://user-images.githubusercontent.com/55348583/126870880-7188dae5-6db5-4136-a85c-fbca75e03e4a.png)
 
-Notes: for program arguments, type in:
+Notes: in the program arguments, type in:
 ```
 saves/tick_default.txt saves/aircraft_default.txt saves/queues_default.txt saves/terminalsWithGates_default.txt
 ```
